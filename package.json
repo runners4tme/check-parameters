@@ -1,0 +1,28 @@
+{
+  "name": "check-parameters",
+  "version": "0.0.1",
+  "description": "A simple package to handle parameters ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runners4tme/check-parameters.git"
+  },
+  "keywords": [
+    "parameters"
+  ],
+  "author": "runners4tme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runners4tme/check-parameters/issues"
+  },
+  "homepage": "https://github.com/runners4tme/check-parameters#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
