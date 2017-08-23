@@ -2,7 +2,12 @@
 
 ## Getting started
 
-1. npm install check-parameters
+1. npm install check-parameters :
+
+```
+npm install
+```
+
 
 2. Use the package in your project
 
