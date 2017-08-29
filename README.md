@@ -2,10 +2,10 @@
 
 ## Getting started
 
-1. npm install check-parameters :
+1. install the package :
 
 ```
-npm install
+npm install check-parameters
 ```
 
 
@@ -13,4 +13,13 @@ npm install
 
 Refer to the examples folder to see how to implement it.
 
-3. Click on star if you like it:)
+3. To run the tests, clone the repo and :
+
+```
+npm install
+
+npm test
+
+```
+
+4. Click on star if you like it:)
